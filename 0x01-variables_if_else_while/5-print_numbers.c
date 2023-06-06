@@ -13,6 +13,6 @@ int main(void)
 
 	for (b = 0; b < 10; b++)
 		printf("%d", b);
-		putchar('\n');
+	putchar('\n');
 	return (0);
 }
